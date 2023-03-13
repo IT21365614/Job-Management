@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MAD Dev</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Uname">Username</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Select">Select Item</string>
+    <string name="Btn_Signup">Continue</string>
+    <string name="Signup_text1">Already signed in ?</string>
+    <string name="Signup_text2">Login</string>
+
+    <!-- For Login -->
+    <string name="Log_in">Login</string>
+    <string name="Btn_login">Login</string>
+    <string name="Login_text1">Not signed in yet ?</string>
+    <string name="Login_text2">Sign up</string>
+
+    <!-- For Admin Homepage -->
+    <string name="Admin_Title">Dashboard</string>
+</resources>
